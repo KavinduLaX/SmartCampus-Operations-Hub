@@ -1,0 +1,32 @@
+target/
+node_modules/
+frontend/node_modules/
+backend/target/
+/.idea/
+.vscode/
+*.log
+*.class
+*.jar
+*.iml
+dist/
+.DS_Store
+.env
+frontend/.env.local
+frontend/.env.local.backup
+
+
+# Backend diagnostic logs
+backend/*.txt
+
+# Environment files and local credentials
+.env
+.env.*
+!.env.example
+frontend/.env.local
+frontend/.env.local.backup
+
+# Build outputs and dependencies
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
