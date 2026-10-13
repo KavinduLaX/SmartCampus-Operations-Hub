@@ -1,5 +1,13 @@
 # SmartCampus Operations Hub
 
+<p align="center">
+  <img
+    src="docs/images/SmartCampus.png"
+    alt="SmartCampus Operations Hub"
+    width="100%"
+  />
+</p>
+
 **A Full-Stack Campus Management Platform**
 
 SmartCampus Operations Hub is a full-stack web application developed as an academic team project to streamline university campus operations through a centralized digital platform. It brings together facility and asset management, resource reservations, incident reporting, notifications, and administrative analytics.
