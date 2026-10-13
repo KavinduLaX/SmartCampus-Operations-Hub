@@ -159,12 +159,6 @@ Before using features that depend on external services:
 
 **Security note:** Keep passwords, API keys, OAuth secrets, database credentials, and local environment files out of version control.
 
-## My Contribution
-
-This project was developed collaboratively as part of an academic team project.
-
-My contribution focused on **Incident Ticket Management**, including functionality related to reporting and managing campus incidents and maintenance requests. This project is included in my portfolio to demonstrate my experience working with full-stack application development and collaborative software engineering.
-
 ## Project Objectives
 
 - Centralize common campus operational workflows.
